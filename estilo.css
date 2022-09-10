@@ -1,0 +1,13 @@
+hi{
+    color: blueviolet;
+}
+
+body {
+    background-color: var(--theme-body-background-color);
+    font-size: 14px;
+    line-height: 1.75;
+}
+
+
+
+
